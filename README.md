@@ -1,2 +1,1 @@
-# contests
-Contests organized by IUT ACM Student Chapter.
+# Contests organized by IUT ACM Student Chapter
