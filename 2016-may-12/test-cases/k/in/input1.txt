@@ -1,0 +1,12 @@
+11
+a 1
+a 2
+ab 1
+aa 1
+aa 2
+aas 1
+aas 2
+aabbccc 3
+aaabbbcc 3
+abcdefgabcdefgabcdefgabcdefg 214748364
+abcdefgabcdefgabcdefgabcdefg 2147483647
