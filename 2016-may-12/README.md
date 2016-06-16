@@ -1,4 +1,4 @@
-# 45th ACM Local Programming Contest
+# 45th IUT ACM Local Programming Contest
 2016 May 12  
 Electronics and Computer Engineering Dept.  
 IUT
