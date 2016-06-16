@@ -1,5 +1,5 @@
 # 45th IUT ACM Local Programming Contest
-2016 May 12  
+2016 May 12 (1395 Ordibehesht 23)
 Electronics and Computer Engineering Dept.  
 IUT
 
