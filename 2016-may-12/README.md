@@ -12,10 +12,10 @@ IUT
 ## Plots
 
 ### Problems - Verdicts Bar Plot
-![Problems - Verdicts](problems-verdicts.png)
+![Problems - Verdicts](plots/problems-verdicts.png)
 
 ### Teams - Verdicts Bar Plot
-![Teams - Verdicts](teams-verdicts.png)
+![Teams - Verdicts](plots/teams-verdicts.png)
 
 ### Verdicts Pie Plot
-![Verdicts](verdicts.png)
+![Verdicts](plots/verdicts.png)
