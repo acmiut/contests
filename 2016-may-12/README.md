@@ -4,7 +4,7 @@ Electronics and Computer Engineering Dept.
 IUT
 
 * [Test Cases](test-cases): Each `input.txt` has a corresponding `output.txt`. for e.g.: `input1.txt -> output1.txt`
-* (TODO) [Solutions](solutions)
+* (TODO) [Solutions](solutions): The descriptions and codes are available.
 
 ## Final Scoreboard
 ![Final Scoreboard](scoreboard.png)
