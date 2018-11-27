@@ -5,3 +5,10 @@
 * [2016 Nov 24](2016-nov-24): 14th Iran Nationwide Internet Contest (2016 Quals)
 
 * [2017 Feb 16](2017-feb-16): 46th IUT Local ACM Programming Contest
+
+* [2018 Mar 09](2018-mar-09): 47th IUT Local ACM Programming Contest
+
+* [2018 nov 16](2018-nov-16): 2018-19 Tehran Site Quals, first contest.
+
+* [2018 nov 23](2018-nov-23): 2018-19 Tehran Site Quals, second contest.
+
