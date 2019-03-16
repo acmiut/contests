@@ -1,7 +1,7 @@
 ## Rotational Transitivity
 
 ### Solution:
-$$a.k(mod n)$$
+$a.k(mod n)$
 <div dir="rtl">
  ابتدا برای سادگی از همه‌ی شماره‌ها یکی کم می‌کنیم. فرض کنیم مقدار k ثابت باشد. تمامی مقادیر
  
