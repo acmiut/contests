@@ -7,7 +7,7 @@
 
  <a href="https://www.codecogs.com/eqnedit.php?latex=a.k(mod&space;n)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a.k(mod&space;n)" title="a.k(mod n)" /></a>
 را برای همه‌ی a ها از 0 تا وقتی که دوباره به 0 برسیم محاسبه می‌کنیم. این مقدار را می‌توان به صورت
-a.k – b.n
+<a href="https://www.codecogs.com/eqnedit.php?latex=a.k&space;–&space;b.n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a.k&space;–&space;b.n" title="a.k – b.n" /></a>
 هم نوشت. طبق قضیه‌ی بزو معادله‌ی
 a.k – b.n = c
 جواب صحیح برای a و  b دارد اگر و تنها اگر
