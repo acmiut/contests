@@ -5,4 +5,4 @@ Electronics and Computer Engineering Dept. - IUT
 * [Problems Set PDF](problemset.pdf)
 
 ## Final Scoreboard
-![Final Scoreboard](scoreboard2019.jpg)
+![Final Scoreboard](scoreboard2019.png)
