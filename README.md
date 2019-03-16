@@ -12,3 +12,5 @@
 
 * [2018 nov 23](2018-nov-23): 2018-19 Tehran Site Quals, second contest.
 
+* [2019 Feb 28](2019-feb-28): IUT Local ACM Programming Contest 2019
+
