@@ -1,6 +1,6 @@
 # Problems, Test Cases and Solutions of IUT ACM Local Contest 2019
 
-* A- Settlers of Catan [code](A-\Settlers\of\Catan/code), [solution](A-\Settlers\of\Catan/README.md)
+* A- Settlers of Catan [code](A-%20Settlers%20of%20Catan/code), [solution](A-\Settlers\of\Catan/README.md)
 * B- IUTier [code](B-\IUTier/code), [solution](B-\IUTier/README.md)
 * C- A Little Bit! [code](C-\A\Little\Bit!/code), [solution](C-\A\Little\Bit!/README.md)
 * D- Dr. Khorzoo and Researchers [code](D-\Dr.\Khorzoo\and\Researchers/code), [solution](D-\Dr.\Khorzoo\and\Researchers/README.md)
