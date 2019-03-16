@@ -15,7 +15,7 @@
 
 * H- ZiziGulus School Adventures [code](H-%20ZiziGulus%20School%20Adventures/code), [solution](H-%20ZiziGulus%20School%20Adventures/README.md), [test cases](H-%20ZiziGulus%20School%20Adventures/in_out)
 
-* I- Queue At The School [code](I-%20Queue%20At%20The%20School/code), [solution](Queue%20At%20The%20School/README.md), [test cases](I-%20Queue%20At%20The%20School/in_out)
+* I- Queue At The School [code](I-%20Queue%20At%20The%20School/code), [solution](I-%20Queue%20At%20The%20School/README.md), [test cases](I-%20Queue%20At%20The%20School/in_out)
 
 * J- Translation [code](J-%20Translation/code), [solution](J-%20Translation/README.md), [test cases](J-%20Translation/in_out)
 
