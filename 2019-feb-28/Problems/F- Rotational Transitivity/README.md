@@ -1,6 +1,8 @@
 ## Rotational Transitivity
 
 ### Solution:
+
+$ \alpha $
 <div dir="rtl">
  ابتدا برای سادگی از همه‌ی شماره‌ها یکی کم می‌کنیم. فرض کنیم مقدار k ثابت باشد. تمامی مقادیر
 a.k(mod n)
