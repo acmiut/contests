@@ -1,8 +1,9 @@
 ## Chess
 
-### Solutions:
+### Solution:
 <div dir="rtl">
   همان‌طور که در شکل زیر مشخص است حرکت ملکه در ۸ جهت است:
+  
   
   ![chess](chess.png)
   
