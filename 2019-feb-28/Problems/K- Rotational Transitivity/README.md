@@ -4,7 +4,8 @@
 
 <div dir="rtl">
  ابتدا برای سادگی از همه‌ی شماره‌ها یکی کم می‌کنیم. فرض کنیم مقدار k ثابت باشد. تمامی مقادیر
-a.k(mod n)
+
+ <a href="https://www.codecogs.com/eqnedit.php?latex=a.k(mod&space;n)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a.k(mod&space;n)" title="a.k(mod n)" /></a>
 را برای همه‌ی a ها از 0 تا وقتی که دوباره به 0 برسیم محاسبه می‌کنیم. این مقدار را می‌توان به صورت
 a.k – b.n
 هم نوشت. طبق قضیه‌ی بزو معادله‌ی
