@@ -3,7 +3,7 @@
 * A- Settlers of Catan [code](A-%20Settlers%20of%20Catan/code), [solution](A-%20Settlers%20of%20Catan/README.md), [test cases](A-%20Settlers%20of%20Catan/Test%20Cases.zip)
 * B- IUTier [code](B-%20IUTier/code), [solution](B-%20IUTier/README.md), [test cases](B-%20IUTier/Test%20Cases.zip)
 
-* C- A Little Bit! [code](C-%20A%20Little%20Bit!/code), [solution](C-%20A%20Little%20Bit!/README.md), [test cases](C-%20%20A%20Little%20Bit!/Test%20Cases.zip)
+* C- A Little Bit! [code](C-%20%20A%20Little%20Bit!/code), [solution](C-%20%20A%20Little%20Bit!/README.md), [test cases](C-%20%20A%20Little%20Bit!/Test%20Cases.zip)
 
 * D- Dr. Khorzoo and Researchers [code](D-%20Dr.%20Khorzoo%20and%20Researchers/code), [solution](D-%20Dr.%20Khorzoo%20and%20Researchers/README.md), [test cases](D-%20Dr.%20Khorzoo%20and%20Researchers/Test%20Cases.zip)
 
