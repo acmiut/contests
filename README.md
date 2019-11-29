@@ -14,3 +14,5 @@
 
 * [2019 Feb 28](2019-feb-28): IUT Local ACM Programming Contest 2019
 
+* [2019 Nov 15](2019-Nov-15): 2019-20 Tehran Site Quals, first contest.
+
